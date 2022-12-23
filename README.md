@@ -1,7 +1,7 @@
 # itelective3-web
 ##  Department of Environment and Natural Resources - Region 6 
 <img src= "download (3).png" width = "100">
- [Website of DENR - R6](https://r6.denr.gov.ph/)
+ Website of [DENR - R6](https://r6.denr.gov.ph)
 
 ### Frameworks 
 MEVN
